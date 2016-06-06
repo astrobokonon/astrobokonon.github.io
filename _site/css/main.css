@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'cbmmedium';
-  src: url("/fonts/cbm-webfont.eot");
-  src: url("/fonts/cbm-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/cbm-webfont.woff2") format("woff2"), url("/fonts/cbm-webfont.woff") format("woff"), url("/fonts/cbm-webfont.ttf") format("truetype"), url("/fonts/cbm-webfont.svg#cbmmedium") format("svg");
+  font-family: 'C64_Pro_Mono-STYLE';
+  src: url("/fonts/C64_Pro_Mono-STYLE.eot");
+  src: url("/fonts/C64_Pro_Mono-STYLE.eot?#iefix") format("embedded-opentype"), url("/fonts/C64_Pro_Mono-STYLE.woff2") format("woff2"), url("/fonts/C64_Pro_Mono-STYLE.woff") format("woff"), url("/fonts/C64_Pro_Mono-STYLE.ttf") format("truetype"), url("/fonts/C64_Pro_Mono-STYLE.svg#cbmmedium") format("svg");
   font-weight: normal;
   font-style: normal; }
 * {
@@ -22,7 +22,7 @@ html {
 body {
   border: 40px solid #b4b7ff;
   background: #545eec;
-  font-family: "cbmmedium", monospace, sans-serif;
+  font-family: "C64_Pro_Mono-STYLE", monospace, sans-serif;
   font-size: 1rem;
   color: #b4b7ff;
   -webkit-text-size-adjust: 100%;
@@ -91,7 +91,7 @@ figure > img {
 code {
   color: #545eec;
   background: #b4b7ff;
-  font-family: 'cbmmedium'; }
+  font-family: 'C64_Pro_Mono-STYLE'; }
 
 li.current a {
   color: #545eec;
