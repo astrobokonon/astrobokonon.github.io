@@ -35,7 +35,7 @@ dl, dd, ol, ul, figure {
   line-height: 1.2;
   font-size: 1rem;
   font-weight: normal;
-  text-transform: uppercase; }
+}
 
 @media screen and (max-width: 400px) {
   body {
