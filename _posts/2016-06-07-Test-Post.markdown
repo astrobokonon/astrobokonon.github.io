@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Testing the C64 Theme More"
+date:   2015-06-07 14:17:00
+categories: c64 update
+---
+
+{% highlight python %}
+import glob
+import lxml
+import pykml.parser as parser
+
+
+def prep_tracks(loc):
+    """
+    Search for all .kml files in the given location, and parse them one by one
+    adding the results to a list of lists that is returned to the calling func
+    """
+
+    searchpath = loc + '/*.kml'
+    infiles = sorted(glob.glob(searchpath))
+    xnames = {'ns': 'http://www.opengis.net/kml/2.2'}
+    gnames = {'gx': 'http://www.google.com/kml/ext/2.2'}
+
+    locations = []
+
+    fltimes = []
+    ftracks = []
+
+    for each in infiles:
+        print "Prepping %s" % each
+        f = open(each)
+
+        kml = lxml.etree.parse(f).getroot()
+        f.close()
+
+        locations.append(kml.xpath('//ns:name', namespaces=xnames)[0].text)
+        times = kml.xpath('//ns:when', namespaces=xnames)
+        coords = kml.xpath('//gx:coord', namespaces=gnames)
+
+        onetrack = []
+        onetime = []
+
+        for time in times:
+            onetime.append(time.text)
+
+        for coord in coords:
+            onetrack.append(coord.text)
+
+        fltimes.append(onetime)
+        ftracks.append(onetrack)
+
+    return locations, fltimes, ftracks
+{% endhighlight %}
+
+
+Fabio vel iudice vincam, sunt in culpa qui officia. Tu quoque, Brute, fili mi, nihil timor populi, nihil! Inmensae subtilitatis, obscuris et malesuada fames. Excepteur sint obcaecat cupiditat non proident culpa.
+
+* This is an unordered list item
+* And another
+* And another
+
+> Blockquote magna pars studiorum, prodita quaerimus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Unam incolunt Belgae, aliam Aquitani, tertiam. Ut enim ad minim veniam, quis nostrud exercitation. Pellentesque habitant morbi tristique senectus et netus.
+
+## Heading level two
+
+Ullamco laboris nisi ut aliquid ex ea commodi consequat. Cras mattis iudicium purus sit amet fermentum. Idque Caesaris facere voluntate liceret: sese habere. Sed haec quis possit intrepidus aestimare tellus.
+
+## Heading level three
+
+Paullum deliquit, ponderibus modulisque suis ratio utitur.
+
+1. This is an ordered list item
+2. And another
+3. And another
+
+Excepteur sint obcaecat cupiditat non proident culpa. Contra legem facit qui id facit quod lex prohibet. Fabio vel iudice vincam, sunt in culpa qui officia. At nos hinc posthac, sitientis piros Afros.
