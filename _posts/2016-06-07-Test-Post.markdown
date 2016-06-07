@@ -16,43 +16,7 @@ def prep_tracks(loc):
     Search for all .kml files in the given location, and parse them one by one
     adding the results to a list of lists that is returned to the calling func
     """
-
-    searchpath = loc + '/*.kml'
-    infiles = sorted(glob.glob(searchpath))
-    xnames = {'ns': 'http://www.opengis.net/kml/2.2'}
-    gnames = {'gx': 'http://www.google.com/kml/ext/2.2'}
-
-    locations = []
-
-    fltimes = []
-    ftracks = []
-
-    for each in infiles:
-        print "Prepping %s" % each
-        f = open(each)
-
-        kml = lxml.etree.parse(f).getroot()
-        f.close()
-
-        locations.append(kml.xpath('//ns:name', namespaces=xnames)[0].text)
-        times = kml.xpath('//ns:when', namespaces=xnames)
-        coords = kml.xpath('//gx:coord', namespaces=gnames)
-
-        onetrack = []
-        onetime = []
-
-        for time in times:
-            onetime.append(time.text)
-
-        for coord in coords:
-            onetrack.append(coord.text)
-
-        fltimes.append(onetime)
-        ftracks.append(onetrack)
-
-    return locations, fltimes, ftracks
 {% endhighlight %}
-
 
 Fabio vel iudice vincam, sunt in culpa qui officia. Tu quoque, Brute, fili mi, nihil timor populi, nihil! Inmensae subtilitatis, obscuris et malesuada fames. Excepteur sint obcaecat cupiditat non proident culpa.
 
