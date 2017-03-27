@@ -219,6 +219,7 @@ p.intro {
     }
     li:after {
         content: " /";
+        color: #FFFFFF;
     }
     li:last-child:after {
         content: none;
