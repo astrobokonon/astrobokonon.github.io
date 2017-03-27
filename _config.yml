@@ -1,7 +1,7 @@
 # Site settings
-title: A C64 Theme for Jekyll
-email: regmtait@gmail.com
-description: "Get blogging like it's 1985 with this Commodore 64 theme for Jekyll, the simple, blog aware, static site generator from GitHub."
+title: "Ryan T. Hamilton's Homepage"
+email: ryan@astroinclined.com
+description: "Yes, I really chose a Commodore 64 theme for my website."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://astrobokonon.github.io" # the base hostname & protocol for your site
 twitter_username: astrobokonon
