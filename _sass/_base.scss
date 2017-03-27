@@ -87,9 +87,12 @@ h1 {
     border-bottom: 2rem;
     display: block;
     margin-top: 2rem;
+    color: #FFFFFF;
+    //color: #00CC55;
 }
 
 h1:after {
+    color: #EEEE77;
     content: "------------";
     //overflow: hidden;
     //float: left;
@@ -99,6 +102,7 @@ h1:after {
 }
 
 h2, h3 {
+    color: #FFFFFF;
     margin-top: 2rem;
 }
 
@@ -132,6 +136,7 @@ li.current a {
 }
 
 ul {
+    color: #AAFFEE;
     list-style: none;
 
 li:before {
@@ -144,21 +149,37 @@ li:before {
 
 ol {
     margin-left: 2rem; padding-left: 0;
-    li {margin-left: 1rem; padding-left: 0;}
+    li {
+        color: #AAFFEE;
+        margin-left: 1rem; 
+        padding-left: 0;
+       }
 }
 
 blockquote {
+    color: #DD8855;
     margin-left: 2rem;
 }
 
 footer {
+        a {
+            color: #00CC55;
+        }
+
+       
+        li {
+            color: #FFFFFF;
+        }
+
         ul {
+            color: #FFFFFF;
             margin-top: 1rem;
-    }
+        }
 }
 
 footer:before {
-    content: "------------";
+    color: #00CC55;
+//    content: "------------";
     clear: both;
     display: block;
 }
@@ -188,6 +209,7 @@ p.intro {
         display: inline;
         a {
             display: inline;
+            color: #00CC55;
         }
     }
 
@@ -196,7 +218,7 @@ p.intro {
         content: "";
     }
     li:after {
-        content: "/";
+        content: " /";
     }
     li:last-child:after {
         content: none;
@@ -234,11 +256,13 @@ content: " ****";
     margin-top: 2rem;
     margin-bottom: 2rem;
     display: inline-block;
+    color: #FF7777;
 }
 
 .go-back:before {
-    content: "_ ";
+    content: "<-- ";
     text-transform: lowercase;
+    color: #FF7777;
 }
 
 .post {
