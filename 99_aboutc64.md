@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: C64 History
+permalink: /aboutc64/
 ---
 
 From [Wikipedia]("http:"https://en.wikipedia.org/wiki/Commodore_64"), the free encyclopedia
