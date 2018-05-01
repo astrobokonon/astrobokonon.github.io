@@ -1,0 +1,10 @@
+# sudo apt-get install ruby ruby-dev
+# sudo gem install bundler jekyll
+# bundle install
+# bundle update
+#
+# (do stuff, make changes)
+# 
+# jekyll build
+# bundle exec jekyll serve
+
