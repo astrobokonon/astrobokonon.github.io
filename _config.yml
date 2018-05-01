@@ -4,7 +4,7 @@ weblinkurl_1: http://opensciencecafe.org/
 weblinktxt_1: OpenScienceCafe
 weblinkurl_2: https://about.me/ryan.hamilton/
 weblinktxt_2: About.me Metapage
-description: "Instrument Scientist for HAWC+ on NASA's Stratospheric Observatory for Infrared Astronomy (SOFIA). I don't think I'll ever get over Macho Grande."
+description: "Instrument Scientist at Lowell Observatory, and former Instrument Scientist for HAWC+ and FLITECAM on NASA's SOFIA. Tweets are my own, especially the ones with bad words. I don't think I'll ever get over Macho Grande."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://astrobokonon.github.io" # the base hostname & protocol for your site
 twitter_username: astrobokonon
