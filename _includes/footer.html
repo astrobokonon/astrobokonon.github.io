@@ -3,16 +3,37 @@
   <h1 class="post-title">Other Links!</h1>
 
   <ul>
-    <li class="twitter">Twitter: <a href="https://twitter.com/{{ site.twitter_username }}">
     {% if site.twitter_username %}
+    <li class="twitter">Twitter: <a href="https://twitter.com/{{ site.twitter_username }}"></a>
     {{ site.twitter_username }}</a></li>
     {% endif %}
+
     <!--
     <li class="email">Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
     -->
+
+    {% if site.github_profile %}
+    <li class="twitter">GitHub: <a href="{{ site.github_profile }}">
+    {{ site.github_profile }}</a></li>
+    {% endif %}
+
+    {% if site.linkedin %}
+    <li class="twitter">LinkedIn: <a href="{{ site.linkedin }}">
+    {{ site.linkedin }}</a></li>
+    {% endif %}
+
+    {% if site.aboutme %}
+    <li class="twitter">about.me: <a href="{{ site.aboutme }}">
+    {{ site.aboutme }}</a></li>
+    {% endif %}
+
+    <!--
     <li class="weblink">Another Website: <a href="{{ site.weblinkurl_1 }}">{{ site.weblinktxt_1 }}</a></li>
     <li class="weblink">Another Website: <a href="{{ site.weblinkurl_2 }}">{{ site.weblinktxt_2 }}</a></li>
+    -->
+    <!--
     <p class="rss-subscribe">* Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    -->
 
   </ul>
 
