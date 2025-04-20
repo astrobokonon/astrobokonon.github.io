@@ -9,7 +9,7 @@ layout: default
 <h1 class="page-heading">Latest Projects</h1>
 
 <div class="post-list">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:5 %}
   <div class="post-list-item">
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h2>

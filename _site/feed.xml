@@ -5,28 +5,103 @@
     <description>Head of Instrumentation at Lowell Observatory, and former Instrument Scientist for HAWC+ and FLITECAM on NASA&apos;s SOFIA. I don&apos;t think I&apos;ll ever get over Macho Grande.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Apr 2025 10:21:49 -0700</pubDate>
-    <lastBuildDate>Sun, 20 Apr 2025 10:21:49 -0700</lastBuildDate>
+    <pubDate>Sun, 20 Apr 2025 12:14:03 -0700</pubDate>
+    <lastBuildDate>Sun, 20 Apr 2025 12:14:03 -0700</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>FLITECAM &amp; FLIPO</title>
-        <description>&lt;p&gt;Instrument and Support Scientist for the First Light Infrared Test Experiment CAMera (FLITECAM), a facility instrument aboard NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA). FLITECAM could be co-mounted with the High Speed Imaging Photometer for Occultations (HIPO) in a combined “FLIPO” mode, providing simultaneous optical and near-infrared imaging for transient events. Led FLITECAM through the formal commissioning and acceptance process.&lt;/p&gt;
+        <title>Peggy and Eric Johnson 1m Telescope</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Project manager, developer, and commissioning observer/scientist; developed
+  custom networked dome controller.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Key team member and general ring leader for FLITECAM and FLIPO flights, including onboard support for the dedicated observing campaigns of a Pluto occultation in New Zealand in June 2015 and a Triton occultation in October 2017.&lt;/p&gt;
+&lt;p&gt;Managed and executed the design, implementation, commissioning, and transition to operations of a new PlaneWave PW1000 1m telescope system at Lowell Observatory’s Anderson Mesa site. This particular site site was originally the home of the Pluto Discovery Telescope after it was moved off of Lowell’s main campus on Mars Hill in the 1970’s, and then was home to the Lowell Observatory Near-Earth-Object Search (LONEOS) using a 0.6m f/1.8 Schmidt telescope and camera in the late 1990’s. Due to declining usage the site was chosen for renovation and refurbishment to house a new 1m telescope system designed to be remotely and eventually robotically operated.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/sofia_c64ed.png&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Upgrades included an entirely new observing level design to maximize airflow, a completely new and custom network accessible dome controller, a full suite of site monitoring tools, and custom FEA-optimized mechanical supports bridging two original piers in the dome to overcome the lack of a central concrete pier. Physical renovation began in January 2023, with the telescope being installed in May of that same year. Transitioned to operations after several unexpected subsystem problems in the summer of 2024.&lt;/p&gt;
 
 &lt;h2 id=&quot;science-highlights&quot;&gt;Science Highlights&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;SN2014J&lt;/li&gt;
-  &lt;li&gt;Pluto Occultation 2015&lt;/li&gt;
+  &lt;li&gt;The Peggy and Eric Johnson 1-meter telescope &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2024SPIE13094E..3XH/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/images/originals/lowell_j1mbridge.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/lowell_j1mbridge.jpg&quot; alt=&quot;PJ1m bridge crane installation&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/originals/lowell_j1m.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/lowell_j1m.jpg&quot; alt=&quot;PJ1m complete and operational&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2024 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/projects/2024/10/14/PJ1m.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2024/10/14/PJ1m.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>HAWC+</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Science lead for more than 30 of 50 total career flights aboard NASA’s
+  SOFIA, managing the instrument &amp;amp; scientific operations teams from proposals
+  to in-flight operations; managed documentation, deliverables, and program
+  requirements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Instrument and Support Scientist for the High-resolution Airborne Wideband Camera Plus (HAWC+), a facility instrument aboard NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA). HAWC+ started life as HAWC, developed by Al Harper at Yerkes Observatory/University of Chicago, but was upgraded before flight by a team at NASA’s Jet Propulsion Laboratory led by Darren Dowell.&lt;/p&gt;
+
+&lt;p&gt;HAWC+ was a far-infrared camera and imaging polarimeter in five broad bands between 50 and 240 microns, with spatial resolutions of ~5 – 20 arcseconds with fields of view ~2 – 10 arcminutes, respectively. HAWC+ utilized three 31x40 pixel arrays of transition edge sensors, cooled by an adiabatic demagnetization refrigerator to an operating temperature of about 0.1 – 0.2 K.&lt;/p&gt;
+
+&lt;p&gt;Supported HAWC+ through initial delivery, commissioning, and formal acceptance.&lt;/p&gt;
+
+&lt;h2 id=&quot;science-highlights&quot;&gt;Science Highlights&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Multiwavelength Polarimetric Observations of OMC-1 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2019ApJ...872..187C/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Polarimetry of M82 and NGC 253 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2019ApJ...870L...9J/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Magnetic Field Geometry in M51 and NGC 891 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2020AJ....160..167J/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/images/originals/sofia_heneryhawk.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_heneryhawk.jpg&quot; alt=&quot;HAWC+ unofficial mascot, Henery Hawk&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/originals/sofia_hawclab.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_hawclab.jpg&quot; alt=&quot;HAWC+ in the choo-choo lab configuration&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/originals/sofia_hawc.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_hawc.jpg&quot; alt=&quot;HAWC+ onboard SOFIA for flights&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Nov 2017 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/projects/2017/11/14/HAWCp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/11/14/HAWCp.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>FLITECAM &amp; FLIPO</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Science lead for more than 30 of 50 total career flights aboard NASA’s
+  SOFIA, managing the instrument &amp;amp; scientific operations teams from proposals
+  to in-flight operations; managed documentation, deliverables, and program
+  requirements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Instrument and Support Scientist for the First Light Infrared Test Experiment CAMera (FLITECAM), a facility instrument aboard NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA). FLITECAM could be co-mounted with the High Speed Imaging Photometer for Occultations (HIPO) in a combined “FLIPO” mode, providing simultaneous optical and near-infrared imaging for transient events.&lt;/p&gt;
+
+&lt;p&gt;Key team member and general ring leader for FLITECAM and FLIPO flights, including onboard support for the dedicated observing campaigns of a Pluto occultation in New Zealand in June 2015 and a Triton occultation in October 2017.&lt;/p&gt;
+
+&lt;p&gt;Led FLITECAM (and to a lesser extent FLIPO) through commissioning and formal acceptance.&lt;/p&gt;
+
+&lt;h2 id=&quot;science-highlights&quot;&gt;Science Highlights&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;SN2014J &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2015ApJ...804...66V/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pluto Occultation 2015 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021Icar..35613572P/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triton Occultation 2017&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Blockquote magna pars studiorum, prodita quaerimus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Unam incolunt Belgae, aliam Aquitani, tertiam. Ut enim ad minim veniam, quis nostrud exercitation. Pellentesque habitant morbi tristique senectus et netus.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/images/originals/sofia_flitecamlab.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_flitecamlab.jpg&quot; alt=&quot;FLITECAM in work at the lab at UCLA&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/originals/sofia_flipo.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_flipo.jpg&quot; alt=&quot;FLIPO mounted on SOFIA for flights&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/originals/sofia_nz.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_nz.jpg&quot; alt=&quot;SOFIA on the tarmac in New Zealand&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/originals/sofia_daytona.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_daytona.jpg&quot; alt=&quot;SOFIA on the tarmac in Daytona Beach&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/projects/2017/11/14/FLITECAM-FLIPO.html</link>

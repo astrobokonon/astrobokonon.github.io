@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "HAWC+"
+date:   2017-11-15 00:00:00
+categories: projects
+---
+
+> Science lead for more than 30 of 50 total career flights aboard NASA's
+  SOFIA, managing the instrument & scientific operations teams from proposals
+  to in-flight operations; managed documentation, deliverables, and program
+  requirements.
+
+Instrument and Support Scientist for the High-resolution Airborne Wideband Camera Plus (HAWC+), a facility instrument aboard NASA's Stratospheric Observatory for Infrared Astronomy (SOFIA). HAWC+ started life as HAWC, developed by Al Harper at Yerkes Observatory/University of Chicago, but was upgraded before flight by a team at NASA's Jet Propulsion Laboratory led by Darren Dowell.
+
+HAWC+ was a far-infrared camera and imaging polarimeter in five broad bands between 50 and 240 microns, with spatial resolutions of ~5 – 20 arcseconds with fields of view ~2 – 10 arcminutes, respectively. HAWC+ utilized three 31x40 pixel arrays of transition edge sensors, cooled by an adiabatic demagnetization refrigerator to an operating temperature of about 0.1 – 0.2 K.
+
+Supported HAWC+ through initial delivery, commissioning, and formal acceptance.
+
+## Science Highlights
+* Multiwavelength Polarimetric Observations of OMC-1 [Paper](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..187C/abstract)
+* Polarimetry of M82 and NGC 253 [Paper](https://ui.adsabs.harvard.edu/abs/2019ApJ...870L...9J/abstract)
+* Magnetic Field Geometry in M51 and NGC 891 [Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..167J/abstract)
+
+## Images
+[![HAWC+ unofficial mascot, Henery Hawk](/content/images/320idx/sofia_heneryhawk.jpg)](/content/images/originals/sofia_heneryhawk.jpg)
+[![HAWC+ in the choo-choo lab configuration](/content/images/320idx/sofia_hawclab.jpg)](/content/images/originals/sofia_hawclab.jpg)
+[![HAWC+ onboard SOFIA for flights](/content/images/320idx/sofia_hawc.jpg)](/content/images/originals/sofia_hawc.jpg)

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Peggy and Eric Johnson 1m Telescope"
+date:   2024-10-15 00:00:00
+categories: projects
+---
+
+> Project manager, developer, and commissioning observer/scientist; developed
+  custom networked dome controller.
+
+Managed and executed the design, implementation, commissioning, and transition to operations of a new PlaneWave PW1000 1m telescope system at Lowell Observatory's Anderson Mesa site. This particular site site was originally the home of the Pluto Discovery Telescope after it was moved off of Lowell's main campus on Mars Hill in the 1970's, and then was home to the Lowell Observatory Near-Earth-Object Search (LONEOS) using a 0.6m f/1.8 Schmidt telescope and camera in the late 1990's. Due to declining usage the site was chosen for renovation and refurbishment to house a new 1m telescope system designed to be remotely and eventually robotically operated.
+
+Upgrades included an entirely new observing level design to maximize airflow, a completely new and custom network accessible dome controller, a full suite of site monitoring tools, and custom FEA-optimized mechanical supports bridging two original piers in the dome to overcome the lack of a central concrete pier. Physical renovation began in January 2023, with the telescope being installed in May of that same year. Transitioned to operations after several unexpected subsystem problems in the summer of 2024.
+
+## Science Highlights
+* The Peggy and Eric Johnson 1-meter telescope [Paper](https://ui.adsabs.harvard.edu/abs/2024SPIE13094E..3XH/abstract)
+* 2024 All-Hands Meeting Status Update [Presentation](/content/docs/lowell_pj1mallhands.pdf)
+
+## Images
+[![PJ1m bridge crane installation](/content/images/320idx/lowell_j1mbridge.jpg)](/content/images/originals/lowell_j1mbridge.jpg)
+[![PJ1m complete and operational](/content/images/320idx/lowell_j1m.jpg)](/content/images/originals/lowell_j1m.jpg)
+[![M51 from PJ1m](/content/images/320idx/lowell_pj1mm51.jpg)](/content/images/originals/lowell_pj1mm51.jpg)
+[![M1 from PJ1m](/content/images/320idx/lowell_pj1mcrab.png)](/content/images/originals/lowell_pj1mcrab.jpg)
