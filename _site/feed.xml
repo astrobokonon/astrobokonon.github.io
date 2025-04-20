@@ -5,9 +5,38 @@
     <description>Head of Instrumentation at Lowell Observatory, and former Instrument Scientist for HAWC+ and FLITECAM on NASA&apos;s SOFIA. I don&apos;t think I&apos;ll ever get over Macho Grande.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Apr 2025 13:54:55 -0700</pubDate>
-    <lastBuildDate>Sun, 20 Apr 2025 13:54:55 -0700</lastBuildDate>
+    <pubDate>Sun, 20 Apr 2025 14:03:41 -0700</pubDate>
+    <lastBuildDate>Sun, 20 Apr 2025 14:03:41 -0700</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Observing Facility Upgrades and Support</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Manager of the Lowell Instrument Group, supervising 5-8 multidisciplinary team members responsible for all research instrumentation across Lowell Observatory telescope facilities. Decision maker; prioritize and schedule projects, including unplanned and on-call support; lab manager.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Complete overhaul of site and instrument telemetry and monitoring to provide widely accessible Grafana dashboards with detailed email alerts when warranted. Spearheaded low-cost monitoring and power control options using a mixture of open source (tasmota, esphome) and community supported (z-wave, zigbee) devices to avoid cloud-/app- vendor lock-in to ensure long term stability.&lt;/p&gt;
+
+&lt;p&gt;Directly participated in, and oversaw as leader of the group, numerous complex repairs, including (but not limited to): failures of cryogenic detector readout electronics, cryogenic/vacuum issues of all sorts, optomechanical failures, network and software failures especially those related to aging infrastructure and operating systems, system and network administrator type problems involving DNS and DHCP, infrastructure upgrades and overhauls, virtualization of legacy software including those requiring specific PCI devices, maintenance and fixes for extreme legacy (DOS + F77) control systems, diagnosing and repairing wear-and-tear issues of all types (mechanical wear, cable fatigue), and frequent nighttime and user support.&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/lowell_ldtcrew.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_ldtcrew.jpg&quot; alt=&quot;LIG LDT Crew&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/lowell_ldtcuberc.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_ldtcuberc.jpg&quot; alt=&quot;LDT RC Cube Probes&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/lowell_ldtcubefolds.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_ldtcubefolds.jpg&quot; alt=&quot;LDT RC Cube Folds&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/lowell_ldtcubework.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_ldtcubework.jpg&quot; alt=&quot;Working under the LDT&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/lowell_nihts.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_nihts.jpg&quot; alt=&quot;NIHTS internal fixes&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/lowell_ldtundercube.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_ldtundercube.jpg&quot; alt=&quot;Instrument servicing&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2024 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/projects/2024/10/14/LIGWork.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2024/10/14/LIGWork.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>Lowell Astronomy Discovery Center Exhibits</title>
@@ -33,8 +62,8 @@
 &lt;a href=&quot;/content/images/originals/lowell_adcwobble.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_adcwobble.jpg&quot; alt=&quot;Wobbing Stars&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Oct 2024 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/projects/2024/10/14/ADCExhibits.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2024/10/14/ADCExhibits.html</guid>
+        <link>http://localhost:4000/projects/2024/10/14/ADCExhibits-copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2024/10/14/ADCExhibits-copy.html</guid>
         
         
         <category>projects</category>
@@ -145,26 +174,6 @@
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on the &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 12 Jun 2010 05:57:28 -0700</pubDate>
-        <link>http://localhost:4000/jekyll/update/2010/06/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2010/06/12/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

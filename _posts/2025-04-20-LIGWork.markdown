@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Observing Facility Upgrades and Support"
+date:   2024-10-15 00:00:00
+categories: projects
+---
+
+> Manager of the Lowell Instrument Group, supervising 5-8 multidisciplinary team members responsible for all research instrumentation across Lowell Observatory telescope facilities. Decision maker; prioritize and schedule projects, including unplanned and on-call support; lab manager.
+
+Complete overhaul of site and instrument telemetry and monitoring to provide widely accessible Grafana dashboards with detailed email alerts when warranted. Spearheaded low-cost monitoring and power control options using a mixture of open source (tasmota, esphome) and community supported (z-wave, zigbee) devices to avoid cloud-/app- vendor lock-in to ensure long term stability.
+
+Directly participated in, and oversaw as leader of the group, numerous complex repairs, including (but not limited to): failures of cryogenic detector readout electronics, cryogenic/vacuum issues of all sorts, optomechanical failures, network and software failures especially those related to aging infrastructure and operating systems, system and network administrator type problems involving DNS and DHCP, infrastructure upgrades and overhauls, virtualization of legacy software including those requiring specific PCI devices, maintenance and fixes for extreme legacy (DOS + F77) control systems, diagnosing and repairing wear-and-tear issues of all types (mechanical wear, cable fatigue), and frequent nighttime and user support.
+
+## Images
+[![LIG LDT Crew](/content/images/320idx/lowell_ldtcrew.jpg)](/content/images/originals/lowell_ldtcrew.jpg)
+[![LDT RC Cube Probes](/content/images/320idx/lowell_ldtcuberc.jpg)](/content/images/originals/lowell_ldtcuberc.jpg)
+
+[![LDT RC Cube Folds](/content/images/320idx/lowell_ldtcubefolds.jpg)](/content/images/originals/lowell_ldtcubefolds.jpg)
+[![Working under the LDT](/content/images/320idx/lowell_ldtcubework.jpg)](/content/images/originals/lowell_ldtcubework.jpg)
+
+[![NIHTS internal fixes](/content/images/320idx/lowell_nihts.jpg)](/content/images/originals/lowell_nihts.jpg)
+[![Instrument servicing](/content/images/320idx/lowell_ldtundercube.jpg)](/content/images/originals/lowell_ldtundercube.jpg)
