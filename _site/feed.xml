@@ -5,9 +5,41 @@
     <description>Head of Instrumentation at Lowell Observatory, and former Instrument Scientist for HAWC+ and FLITECAM on NASA&apos;s SOFIA. I don&apos;t think I&apos;ll ever get over Macho Grande.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Apr 2025 12:14:03 -0700</pubDate>
-    <lastBuildDate>Sun, 20 Apr 2025 12:14:03 -0700</lastBuildDate>
+    <pubDate>Sun, 20 Apr 2025 13:54:55 -0700</pubDate>
+    <lastBuildDate>Sun, 20 Apr 2025 13:54:55 -0700</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Lowell Astronomy Discovery Center Exhibits</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Project manager; design lead; we started essentially from scratch and built
+  exhibits that were mechanically robust, fit the original exhibit size, and
+  clearly demonstrated the concepts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Designed and completed two science demonstration exhibits for the Astronomy Discovery Center at Lowell Observatory on an exceptionally short timeline, 8 weeks before opening day: “Wobbling Stars” demonstrates radial velocity reflex motion and “Coronographs in Space” demonstrates coronagraph occulting disc principles.&lt;/p&gt;
+
+&lt;p&gt;Exhibits were designed from scratch based on rough ideas of the desired concepts to be demonstrated, using off the shelf and 3D printed components to complete them within the given timeline. Both exhibits in constant use with minimal downtime in a challenging public-facing environment with heavy usage.&lt;/p&gt;
+
+&lt;p&gt;The exhibits were also designed to be as physically accurate as possible: for “Coronagraphs in Space” a real directly imaged exoplanet system was used to drive the design. For “Wobbling Stars” this wasn’t possible given the size constraints and the desire to keep things both “big” and “obvious” for visitors, but the as-built was system was analyzed to show what their real-world mass ratio and separation would look like. These details were formally written and delivered to the Lowell Observatory public outreach group for use in their education efforts within the Astronomy Discovery Center.&lt;/p&gt;
+
+&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lowell Instrument Group ADC Exhibits &lt;a href=&quot;/content/docs/lowell_adcexhibitdetails.pdf&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/lowell_adccorona.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_adccorona.jpg&quot; alt=&quot;Coronagraphs in Space&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/lowell_adcwobble.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_adcwobble.jpg&quot; alt=&quot;Wobbing Stars&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2024 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/projects/2024/10/14/ADCExhibits.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2024/10/14/ADCExhibits.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>Peggy and Eric Johnson 1m Telescope</title>
@@ -23,11 +55,15 @@
 &lt;h2 id=&quot;science-highlights&quot;&gt;Science Highlights&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;The Peggy and Eric Johnson 1-meter telescope &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2024SPIE13094E..3XH/abstract&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2024 All-Hands Meeting Status Update &lt;a href=&quot;/content/docs/lowell_pj1mallhands.pdf&quot;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;/images/originals/lowell_j1mbridge.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/lowell_j1mbridge.jpg&quot; alt=&quot;PJ1m bridge crane installation&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/originals/lowell_j1m.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/lowell_j1m.jpg&quot; alt=&quot;PJ1m complete and operational&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/lowell_j1mbridge.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_j1mbridge.jpg&quot; alt=&quot;PJ1m bridge crane installation&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/lowell_j1m.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_j1m.jpg&quot; alt=&quot;PJ1m complete and operational&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/lowell_pj1mm51.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_pj1mm51.jpg&quot; alt=&quot;M51 from PJ1m&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/lowell_pj1mcrab.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/lowell_pj1mcrab.png&quot; alt=&quot;M1 from PJ1m&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Oct 2024 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/projects/2024/10/14/PJ1m.html</link>
@@ -61,9 +97,9 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;/images/originals/sofia_heneryhawk.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_heneryhawk.jpg&quot; alt=&quot;HAWC+ unofficial mascot, Henery Hawk&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/originals/sofia_hawclab.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_hawclab.jpg&quot; alt=&quot;HAWC+ in the choo-choo lab configuration&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/originals/sofia_hawc.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_hawc.jpg&quot; alt=&quot;HAWC+ onboard SOFIA for flights&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/sofia_heneryhawk.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_heneryhawk.jpg&quot; alt=&quot;HAWC+ unofficial mascot, Henery Hawk&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/sofia_hawclab.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_hawclab.jpg&quot; alt=&quot;HAWC+ in the choo-choo lab configuration&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/sofia_hawc.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_hawc.jpg&quot; alt=&quot;HAWC+ onboard SOFIA for flights&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/projects/2017/11/14/HAWCp.html</link>
@@ -97,11 +133,11 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;/images/originals/sofia_flitecamlab.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_flitecamlab.jpg&quot; alt=&quot;FLITECAM in work at the lab at UCLA&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/originals/sofia_flipo.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_flipo.jpg&quot; alt=&quot;FLIPO mounted on SOFIA for flights&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/sofia_flitecamlab.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_flitecamlab.jpg&quot; alt=&quot;FLITECAM in work at the lab at UCLA&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/sofia_flipo.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_flipo.jpg&quot; alt=&quot;FLIPO mounted on SOFIA for flights&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/originals/sofia_nz.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_nz.jpg&quot; alt=&quot;SOFIA on the tarmac in New Zealand&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/originals/sofia_daytona.jpg&quot;&gt;&lt;img src=&quot;/images/320idx/sofia_daytona.jpg&quot; alt=&quot;SOFIA on the tarmac in Daytona Beach&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/content/images/originals/sofia_nz.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_nz.jpg&quot; alt=&quot;SOFIA on the tarmac in New Zealand&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/content/images/originals/sofia_daytona.jpg&quot;&gt;&lt;img src=&quot;/content/images/320idx/sofia_daytona.jpg&quot; alt=&quot;SOFIA on the tarmac in Daytona Beach&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/projects/2017/11/14/FLITECAM-FLIPO.html</link>
@@ -109,72 +145,6 @@
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Testing the C64 Theme More</title>
-        <description>&lt;h2 id=&quot;heading-level-three&quot;&gt;Heading level three&lt;/h2&gt;
-
-&lt;p&gt;Paullum deliquit, ponderibus modulisque suis ratio utitur.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;This is an ordered list item&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Excepteur sint obcaecat cupiditat non proident culpa. Contra legem facit qui id facit quod lex prohibet. Fabio vel iudice vincam, sunt in culpa qui officia. At nos hinc posthac, sitientis piros Afros.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Jun 2016 07:17:00 -0700</pubDate>
-        <link>http://localhost:4000/c64/update/2016/06/07/Test-Post-Nosyntax.html</link>
-        <guid isPermaLink="true">http://localhost:4000/c64/update/2016/06/07/Test-Post-Nosyntax.html</guid>
-        
-        
-        <category>c64</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>A brand new Jekyll theme</title>
-        <description>&lt;p&gt;Fabio vel iudice vincam, sunt in culpa qui officia. Tu quoque, Brute, fili mi, nihil timor populi, nihil! Inmensae subtilitatis, obscuris et malesuada fames. Excepteur sint obcaecat cupiditat non proident culpa.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This is an unordered list item&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Blockquote magna pars studiorum, prodita quaerimus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Unam incolunt Belgae, aliam Aquitani, tertiam. Ut enim ad minim veniam, quis nostrud exercitation. Pellentesque habitant morbi tristique senectus et netus.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;heading-level-two&quot;&gt;Heading level two&lt;/h2&gt;
-
-&lt;p&gt;Ullamco laboris nisi ut aliquid ex ea commodi consequat. Cras mattis iudicium purus sit amet fermentum. Idque Caesaris facere voluntate liceret: sese habere. Sed haec quis possit intrepidus aestimare tellus.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading-level-three&quot;&gt;Heading level three&lt;/h2&gt;
-
-&lt;p&gt;Paullum deliquit, ponderibus modulisque suis ratio utitur.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;This is an ordered list item&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Excepteur sint obcaecat cupiditat non proident culpa. Contra legem facit qui id facit quod lex prohibet. Fabio vel iudice vincam, sunt in culpa qui officia. At nos hinc posthac, sitientis piros Afros.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jun 2015 05:57:28 -0700</pubDate>
-        <link>http://localhost:4000/c64/update/2015/06/19/brand-new.html</link>
-        <guid isPermaLink="true">http://localhost:4000/c64/update/2015/06/19/brand-new.html</guid>
-        
-        
-        <category>c64</category>
-        
-        <category>update</category>
         
       </item>
     
@@ -187,9 +157,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on the &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Jun 2015 05:57:28 -0700</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/06/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/06/12/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 12 Jun 2010 05:57:28 -0700</pubDate>
+        <link>http://localhost:4000/jekyll/update/2010/06/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2010/06/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
