@@ -19,5 +19,6 @@ Upgrades included an entirely new observing level design to maximize airflow, a 
 ## Images
 [![PJ1m bridge crane installation](/content/images/320idx/lowell_j1mbridge.jpg)](/content/images/originals/lowell_j1mbridge.jpg)
 [![PJ1m complete and operational](/content/images/320idx/lowell_j1m.jpg)](/content/images/originals/lowell_j1m.jpg)
+
 [![M51 from PJ1m](/content/images/320idx/lowell_pj1mm51.jpg)](/content/images/originals/lowell_pj1mm51.jpg)
 [![M1 from PJ1m](/content/images/320idx/lowell_pj1mcrab.png)](/content/images/originals/lowell_pj1mcrab.jpg)
