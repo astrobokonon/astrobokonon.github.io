@@ -1,0 +1,7 @@
+header images:
+320x200
+16 colors indexed
+
+General images:
+640x480 (ish)
+16 colors indexed, unless it looked too crummy then 32
