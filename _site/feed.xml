@@ -5,39 +5,28 @@
     <description>Head of Instrumentation at Lowell Observatory, and former Instrument Scientist for HAWC+ and FLITECAM on NASA&apos;s SOFIA. I don&apos;t think I&apos;ll ever get over Macho Grande.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Apr 2025 17:15:17 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Apr 2025 17:15:17 -0700</lastBuildDate>
+    <pubDate>Sun, 20 Apr 2025 10:21:49 -0700</pubDate>
+    <lastBuildDate>Sun, 20 Apr 2025 10:21:49 -0700</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>FLITECAM &amp; FLIPO</title>
-        <description>&lt;p&gt;Fabio vel iudice vincam, sunt in culpa qui officia. Tu quoque, Brute, fili mi, nihil timor populi, nihil! Inmensae subtilitatis, obscuris et malesuada fames. Excepteur sint obcaecat cupiditat non proident culpa.&lt;/p&gt;
+        <description>&lt;p&gt;Instrument and Support Scientist for the First Light Infrared Test Experiment CAMera (FLITECAM), a facility instrument aboard NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA). FLITECAM could be co-mounted with the High Speed Imaging Photometer for Occultations (HIPO) in a combined “FLIPO” mode, providing simultaneous optical and near-infrared imaging for transient events. Led FLITECAM through the formal commissioning and acceptance process.&lt;/p&gt;
 
+&lt;p&gt;Key team member and general ring leader for FLITECAM and FLIPO flights, including onboard support for the dedicated observing campaigns of a Pluto occultation in New Zealand in June 2015 and a Triton occultation in October 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sofia_c64ed.png&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;science-highlights&quot;&gt;Science Highlights&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;This is an unordered list item&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
+  &lt;li&gt;SN2014J&lt;/li&gt;
+  &lt;li&gt;Pluto Occultation 2015&lt;/li&gt;
+  &lt;li&gt;Triton Occultation 2017&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Blockquote magna pars studiorum, prodita quaerimus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Unam incolunt Belgae, aliam Aquitani, tertiam. Ut enim ad minim veniam, quis nostrud exercitation. Pellentesque habitant morbi tristique senectus et netus.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h2 id=&quot;heading-level-two&quot;&gt;Heading level two&lt;/h2&gt;
-
-&lt;p&gt;Ullamco laboris nisi ut aliquid ex ea commodi consequat. Cras mattis iudicium purus sit amet fermentum. Idque Caesaris facere voluntate liceret: sese habere. Sed haec quis possit intrepidus aestimare tellus.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading-level-three&quot;&gt;Heading level three&lt;/h2&gt;
-
-&lt;p&gt;Paullum deliquit, ponderibus modulisque suis ratio utitur.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;This is an ordered list item&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-  &lt;li&gt;And another&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Excepteur sint obcaecat cupiditat non proident culpa. Contra legem facit qui id facit quod lex prohibet. Fabio vel iudice vincam, sunt in culpa qui officia. At nos hinc posthac, sitientis piros Afros.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/projects/2017/11/14/FLITECAM-FLIPO.html</link>
