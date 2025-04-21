@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HAWC+"
-date:   2017-11-15 00:00:00
+date:   2017-12-15 00:00:00
 categories: projects
 ---
 
