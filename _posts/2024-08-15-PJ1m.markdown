@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peggy and Eric Johnson 1m Telescope"
-date:   2024-10-15 00:00:00
+date:   2024-08-15 00:00:00
 categories: projects
 ---
 

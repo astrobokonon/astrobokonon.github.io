@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lowell Astronomy Discovery Center Exhibits"
-date:   2024-10-15 00:00:00
+date:   2024-11-15 00:00:00
 categories: projects
 ---
 
